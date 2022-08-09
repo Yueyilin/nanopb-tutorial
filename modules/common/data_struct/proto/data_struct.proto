@@ -1,0 +1,5 @@
+syntax = "proto2";
+
+message MySimpleMessage {
+    optional int32 my_number = 1;
+}
